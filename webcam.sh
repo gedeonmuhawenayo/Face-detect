@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/sh
 
-./lib/webcam.py
+python lib/webcam.py
