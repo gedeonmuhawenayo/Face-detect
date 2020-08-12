@@ -12,5 +12,8 @@ output_dir = "../dataset/train"  # outputs of the embeddings
 checkpoints = "../checkpoint"
 
 dim = 96
-HOST = 127.0.0.1
+HOST = "127.0.0.1"
 PORT = 8080
+
+# API that returns list of staff
+url_staff_list = "insert api list here"
